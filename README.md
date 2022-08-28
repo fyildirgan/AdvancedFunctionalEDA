@@ -1,0 +1,2 @@
+# AdvancedFunctionalEDA
+ GelismisFonksiyonelKesifciVeriAnalizi
